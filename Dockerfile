@@ -8,16 +8,26 @@ RUN javac main.java
 
 CMD java main
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # ENTRYPOINT ["java","main"]
-
-
-
-
-
-
-
-
-
 
 
 # FROM eclipse-temurin:17-jdk-jammy
